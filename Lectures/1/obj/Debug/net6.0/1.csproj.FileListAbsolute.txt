@@ -1,0 +1,15 @@
+D:\GitGB\C#\Lectures\1\bin\Debug\net6.0\1.exe
+D:\GitGB\C#\Lectures\1\bin\Debug\net6.0\1.deps.json
+D:\GitGB\C#\Lectures\1\bin\Debug\net6.0\1.runtimeconfig.json
+D:\GitGB\C#\Lectures\1\bin\Debug\net6.0\1.dll
+D:\GitGB\C#\Lectures\1\bin\Debug\net6.0\1.pdb
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\1.dll
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\refint\1.dll
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\1.pdb
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+D:\GitGB\C#\Lectures\1\obj\Debug\net6.0\ref\1.dll
