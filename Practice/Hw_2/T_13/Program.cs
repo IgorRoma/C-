@@ -9,10 +9,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 void Three() // третье число с проверкой, на знак и отсутствие
 {
-    if (n > 0)
-    {}
-    else
-    {n = -n;}
+    if (n > 0) {} else { n = -n; }
     Console.Write("Третье число: ");
     Console.WriteLine(n>99 ? n.ToString()[2] : "отсутствует");
     Console.ReadKey(true);
