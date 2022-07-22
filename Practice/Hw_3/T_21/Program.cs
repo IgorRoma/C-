@@ -45,7 +45,7 @@
             double y1 = double.Parse(Console.ReadLine());
             double z1 = double.Parse(Console.ReadLine());
             Point B = new Point(x1, y1, z1);
-            Console.WriteLine("\nДлина отрезка в декартовых координатах равна: {0} o.e.",LengthSide(A, B));
+            Console.WriteLine("\nРасстояние между точками равно: {0} o.e.",LengthSide(A, B));
          
         }
         
