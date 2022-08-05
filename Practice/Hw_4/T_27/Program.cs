@@ -5,13 +5,15 @@ Console.Clear();
 Console.Write("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-  int SumNumber(int n){
+  int SumNumber(int n)
+  {
     
     int counter = Convert.ToString(n).Length;
     int advance = 0;
     int result = 0;
 
-    for (int i = 0; i < counter; i++){
+    for (int i = 0; i < counter; i++)
+    {
       advance = n - n % 10;
       result = result + (n - advance);
       n = n / 10;
