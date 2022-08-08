@@ -3,7 +3,7 @@
 
 Console.Clear();
 
-Console.Write($"Введи количество элементов массива: ");
+Console.Write("Введи количество элементов массива: ");
 int elements = Convert.ToInt32(Console.ReadLine()); 
 
 int RandomNumbers(int elements, int min, int max)
